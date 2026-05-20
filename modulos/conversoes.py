@@ -1,7 +1,3 @@
-# a. celsius_para_fahrenheit(c)
-# b. fahrenheit_para_celsius(f)
-# c. metros_para_centimetros(m)
-
 def celsius_para_fahrenheit(c):
     return (9/5)*(c + 32)
 
